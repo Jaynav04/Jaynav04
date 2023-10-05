@@ -12,8 +12,8 @@ Throughout my academic journey, I've not only gained vital technical skills but 
 - 🤔 I’m currently on the job hunt so any tips or direction would be greatly appreciated!
   
 -  📫 How to reach me:
-    Email: [4jnava@gmail.com](4jnava@gmail.com)
-    Connect and Message me on [LinkedIn](https://www.linkedin.com/in/jairn/)
+    - Email: [4jnava@gmail.com](4jnava@gmail.com)
+    - Connect and Message me on [LinkedIn](https://www.linkedin.com/in/jairn/)
 
 - ⚡ Fun fact: I'm a huge soccer, football, futbol fanatic. So catch me tuning into the premier league, champions league, and Europa league. Message me! Lets talk stats. 
   
