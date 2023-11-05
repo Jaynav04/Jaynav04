@@ -7,7 +7,7 @@ Throughout my academic journey, I've not only gained vital technical skills but 
 
 - 🔭 I’m currently working on my final collaborative project to solve, analyze, or visualize a problem using machine learning (ML) as well other technologies we’ve learned.
 
-- 🌱 I’m currently learning Machine learning algorithms and predictive modeling
+- 🌱 I’m currently learning AWS SaaS Platform
 
 - 🤔 I’m currently on the job hunt so any tips or direction would be greatly appreciated!
   
