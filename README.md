@@ -5,11 +5,9 @@ Data Analyst based in Round Rock, TX, with a background in human resources, assi
 
 Throughout my academic journey, I've not only gained vital technical skills but also developed the analytical mindset necessary for success in this field. I'm both confident and enthusiastic about commencing a new phase in my career, eagerly seeking opportunities for continuous growth and advancement.
 
-- 🔭 I’m currently working on my final collaborative project to solve, analyze, or visualize a problem using machine learning (ML) as well other technologies we’ve learned.
+- 🔭 I am currently enhancing my understanding of relational databases through various platforms. Currently, my focus is on acquiring knowledge about Microsoft SQL Server and exploring ways to seamlessly integrate a front-end interface using Microsoft Access.
 
-- 🌱 I’m currently learning AWS SaaS Platform
-
-- 🤔 I’m currently on the job hunt so any tips or direction would be greatly appreciated!
+- 🌱 I’m currently learning advanced techniques on Database Design and Database Management.
   
 -  📫 How to reach me:
     - Email: [4jnava@gmail.com](4jnava@gmail.com)
